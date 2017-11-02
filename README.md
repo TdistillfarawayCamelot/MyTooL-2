@@ -1,0 +1,2 @@
+# MyTooL-2
+一套解决DOM中Node对象子节点和Element对象中子元素的关于页面兼容的问题
